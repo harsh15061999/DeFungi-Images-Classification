@@ -35,4 +35,5 @@ Conclusion
 This project showcases a comprehensive approach to image classification, leveraging diverse neural network architectures to achieve accurate results in classifying superficial fungal diseases. Regular monitoring and maintenance practices are recommended to adapt the models to changing data distributions and enhance accuracy over time.
 
 Dataset Link
+
 DeFungi Dataset
