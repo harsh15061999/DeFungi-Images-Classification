@@ -3,7 +3,8 @@ DeFungi Image Classification
 Project Overview
 The DeFungi Image Classification project is an initiative to build a sophisticated image classification model using the DeFungi dataset. This dataset comprises microscopic images of superficial fungal diseases caused by yeasts, molds, and dermatophytes. The goal is to accurately classify these images into one of five predefined classes, improving the speed and accuracy of fungal disease diagnosis through automated image processing.
 
-(https://i.imgur.com/UyF3YlH.png)
+![Fungi](https://github.com/user-attachments/assets/946e7ef8-8c0b-4ae1-bee6-33ec4107ee74)
+
 
 Data Description
 Dataset: The DeFungi dataset includes 3,025 uncurated and unlabeled images, and 660 labeled images, depicting superficial fungal infections.
